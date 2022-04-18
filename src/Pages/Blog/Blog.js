@@ -4,6 +4,7 @@ const Blog = () => {
     return (
         <div>
             <div className='blog-1 container mt-5'>
+                {/* question number 1 */}
                 <h3>1. Difference between authorization and authentication? </h3>
                 <p>Authentication : কাউকে, কোনো কিছু,  কারো কোনো act(যা সঠিক বলে দাবী করা হচ্ছে)  প্রকৃতপক্ষতা সত্য কিনা নিণয় করার (giving assurance)প্রকৃিয়া
                     Authorization : কাউকে কোনো কাজ করার জন্য বা কোন resource ব্যবহার করতে পারার permission দেওয়ার প্রকৃয়া হল Authorization।
