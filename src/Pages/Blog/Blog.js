@@ -24,6 +24,9 @@ const Blog = () => {
                     2.Biometric authentication
                     3.Token-based authentication
                 </p>
+                <div className='blog-3'>
+
+                </div>
 
             </div>
         </div>
