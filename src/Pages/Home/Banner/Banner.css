@@ -1,0 +1,11 @@
+.carousel-img {
+    width: 400px;
+    height: 600px;
+}
+
+.carousel-text {
+    background-color: lightblue;
+    border-radius: 5px;
+    padding: 5px;
+    color: whitesmoke
+}

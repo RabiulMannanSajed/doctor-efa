@@ -1,0 +1,19 @@
+.service-body {
+    background-color: rgb(214, 230, 241);
+}
+
+.service-img {
+    height: 235px;
+}
+
+.service-btn {
+    padding: 5px;
+    font-size: 16px;
+    line-height: 1;
+    font-weight: 600;
+    background: #1c3764;
+    color: #fff;
+    font-family: Poppins, "Gerogia", sans-serif;
+    margin: 0;
+    border-radius: 5px;
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "HI! My self Dr.Efa",
+        "navtext": "I will treat your teeth how I'd treat my own",
+        "img": "https://www.eastamherstdentalcenter.com/wp-content/uploads/2019/07/Knocked-out-tooth-660x371.jpg"
+    },
+    {
+        "id": 2,
+        "title": "WHEEL ALIGNMENT",
+        "navtext": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": " https://www.eastamherstdentalcenter.com/wp-content/uploads/2019/07/Knocked-out-tooth-660x371.jpg"
+    },
+    {
+        "id": 3,
+        "title": "OIL CHANGING",
+        "navtext": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://www.eastamherstdentalcenter.com/wp-content/uploads/2019/07/Knocked-out-tooth-660x371.jpg"
+    }
+]

@@ -1,12 +1,16 @@
-# Getting Started with Create React App
-
+# Dentist Efa
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+## web site info 
+* this a dentist Efa's web site 
+* 6 service here 
+* to do check out login must 
+* Google sign up also added 
+* in check out give your all information
+* created a 404 page 
 
 ### `npm start`
+<!-- here add my live site  -->
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.

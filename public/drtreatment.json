@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "treatmentname": "Orthodontic treatment",
+        "description": "Orthodontic services help improve the alignment of the teeth and jaw. Patients who have an overbite, underbite, crossbite, or misaligned teeth may require or seek out orthodontic services to help correct such issues.",
+        "price": 1500,
+        "img": "https://laurinburg.orthoisfun.com/wp-content/uploads/orthodontics-header.jpg"
+    },
+    {
+        "id": 2,
+        "treatmentname": "Pediatric treatment  ",
+        "description": "Pediatric dentists are dedicated to the oral health of children from infancy through the teen years. They have the experience and qualifications to care for a child’s teeth, gums, and mouth throughout the various stages of childhood. ",
+        "price": 1700,
+        "img": "https://www.sproutpediatricdentistry.com/wp-content/uploads/2021/05/young-girl-having-teeth-examined.jpg"
+    },
+    {
+        "id": 3,
+        "treatmentname": "Prosthodontic treatment ",
+        "description": "Prosthodontic services regard the restoration and replacement of missing or damaged teeth. Prosthodontic specialists design, manufacture, and fit artificial replacements for missing or damaged teeth and other areas of the mouth ",
+        "price": 1800,
+        "img": "https://siloamdentalclinic.com/wp-content/uploads/2019/10/prosthodontics1.jpg"
+    },
+    {
+        "id": 4,
+        "treatmentname": "Periodontal treatment",
+        "description": "Periodontal therapy includes both surgical and non-surgical techniques to restore health to the tissues that support the teeth (gums and bone) and prevent tooth loss. ",
+        "price": 1300,
+        "img": "https://www.australiandentalspecialists.com/wp-content/uploads/image-treatment-periodontitis-1.jpg"
+    },
+    {
+        "id": 5,
+        "treatmentname": "Endodontic treatment",
+        "description": " Endodontic procedures include every treatment involving the inner tissues of the teeth, otherwise known as the pulp or nerve. The word “endodontic” is derived from two stems: “endo,” meaning inside, and “odont,” meaning tooth.  .",
+        "price": 1450,
+        "img": "https://www.kingsdentaltx.com/wp-content/uploads/2020/05/root-canal-therapy-service.jpg"
+    },
+    {
+        "id": 6,
+        "treatmentname": "Cosmetic dentistry services",
+        "description": "Cosmetic dentistry services are increasing in popularity and, as a result, provide a great opportunity for dental practices to grow their customer base. 5 Common Cosmetic Dental Procedures Enamel Bonding. Dental Veneers. Invisalign Braces. Enamel Abrasion.",
+        "price": 2000,
+        "img": "https://4.imimg.com/data4/NA/UX/ANDROID-52538644/product-500x500.jpeg"
+    }
+]
