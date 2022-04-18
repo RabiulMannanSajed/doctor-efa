@@ -1,7 +1,7 @@
 # Dentist Efa
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## web site info 
+## website info
 * this a dentist Efa's web site 
 * 6 service here 
 * to do check out login must 
