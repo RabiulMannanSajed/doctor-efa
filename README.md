@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * to do check out login must 
 * Google sign up also added 
 * in check out give your all information
+* there is alert in checkout page 
 * created a 404 page 
 
 ### website link
