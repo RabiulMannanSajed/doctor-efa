@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * in check out give your all information
 * created a 404 page 
 
-### `npm start`
+### website link
 <!-- here add my live site  -->
 
 Runs the app in the development mode.\
