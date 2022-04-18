@@ -25,7 +25,7 @@ const Blog = () => {
                     3.Token-based authentication
                 </p>
             </div>
-            <div className='blog-3'>
+            <div className='blog-3 container mt-5'>
                 <h3> what other services does firebase provide other than authentication?</h3>
                 <p>Firebase is a very useful site profile with different kinds of services that help us to get high-quality mobile and web applications with IOS Android text lines don't need to worry about the backend firebase also provided there are some most useful services list which is provided by firebase
                     Cloud Firestore, Cloud Functions, Authentication, Hosting, Cloud Storage, Google Analytics, Predictions, Cloud Messaging, Dynamic Links, Remote Config</p>
