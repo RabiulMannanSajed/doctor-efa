@@ -3,7 +3,7 @@ import notfound from '../../../image/404page.png'
 const NotFound = () => {
     return (
         <div>
-            <img src={notfound} alt="" />
+            <img className='notfound-img' src={notfound} alt="" />
         </div>
     );
 };
